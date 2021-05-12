@@ -1,4 +1,5 @@
 .stack-work/
 .python-version
 ./.ipynb_checkpoints
+./.vscode
 *~
